@@ -8,21 +8,36 @@ to turn ideas and models into production systems.
 
 ## Open source
 
-- **[Datui](https://github.com/derekwisong/datui)** &nbsp;⭐ 120+ — a terminal UI for exploring
-  tabular data; handles massive partitioned datasets, local and in the cloud (S3/GCS). Rust.
-- **[Pyagent](https://github.com/derekwisong/pyagent)** — a multi-provider LLM agent framework
-  with plugin, skill, and subagent systems. Python.
+### [Datui](https://github.com/derekwisong/datui) &nbsp;⭐ 120+
+
+A terminal UI for exploring tabular data — handles massive partitioned datasets, local and
+in the cloud (S3/GCS). Rust.
+
+[![Datui exploring a Parquet file in the terminal](assets/datui-overview.gif)](https://derekwisong.github.io/datui/latest/demos.html)
+
+*[More demos →](https://derekwisong.github.io/datui/latest/demos.html)*
+
+### [Pyagent](https://github.com/derekwisong/pyagent)
+
+A multi-provider LLM agent framework with plugin, skill, and subagent systems. Python.
 
 ## Products
 
 *Source currently private — the linked write-ups cover architecture and stack.*
 
-- **[Pitscope](https://beta.pitscope.com/)** — a live Formula 1 race dashboard (beta).
-  Real-time telemetry ingestion, Svelte front end, Cloud Run.
-  → [write-up](https://derek.wisong.me/projects/f1-analytics-dashboard/)
-- **[Go VFR](https://gonogo-app-240046505853.us-central1.run.app/)** — a decision-support
-  tool for VFR pilots (prototype).
-  → [write-up](https://derek.wisong.me/projects/go-vfr/)
+### [Pitscope](https://beta.pitscope.com/)
+
+Live Formula 1 race dashboard (beta). Real-time telemetry ingestion, Svelte front end,
+Cloud Run. &nbsp;·&nbsp; [write-up →](https://derek.wisong.me/projects/f1-analytics-dashboard/)
+
+[![Pitscope — Miami Grand Prix race analytics](assets/pitscope-results-2026-r4.png)](https://beta.pitscope.com/)
+
+### [Go VFR](https://gonogo-app-240046505853.us-central1.run.app/)
+
+A decision-support tool for VFR pilots (prototype) — go/no-go assessment from weather,
+route, and phase-by-phase risk. &nbsp;·&nbsp; [write-up →](https://derek.wisong.me/projects/go-vfr/)
+
+[![Go VFR — go/no-go assessment for a cross-country route](assets/govfr-results-page.png)](https://gonogo-app-240046505853.us-central1.run.app/)
 
 ## Connect
 
