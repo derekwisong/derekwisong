@@ -21,6 +21,8 @@ in the cloud (S3/GCS). Rust.
 
 A multi-provider LLM agent framework with plugin, skill, and subagent systems. Python.
 
+[![Pyagent dispatching parallel subagents from the CLI](assets/pyagent-demo.gif)](https://github.com/derekwisong/pyagent)
+
 ## Products
 
 *Source currently private — the linked write-ups cover architecture and stack.*
