@@ -4,7 +4,7 @@ Virtu, Morgan Stanley, Hutchin Hill Capital). I specialize in cross-language dat
 — Python, C++, Q/KDB+, Rust — and in partnering directly with researchers and stakeholders
 to turn ideas and models into production systems.
 
-**Stack:** Python · C++ · Q/KDB+ · Rust · SQL · Apache Airflow · GCP · Docker · Parquet / Arrow
+**Stack:** Lots more, but lately Python · C++ · Rust · SQL · Apache Airflow · GCP · Docker · Parquet / Arrow
 
 ## Open source
 
