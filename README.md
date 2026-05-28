@@ -23,7 +23,7 @@ A multi-provider LLM agent framework with plugin, skill, and subagent systems. P
 
 [![Pyagent dispatching parallel subagents from the CLI](assets/pyagent-demo.gif)](https://github.com/derekwisong/pyagent)
 
-## Products
+## Private Source
 
 *Source currently private — the linked write-ups cover architecture and stack.*
 
