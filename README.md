@@ -1,14 +1,12 @@
 I'm a data/platform engineer who has spent a career building large-scale data and
 quantitative research platforms at top-tier hedge funds and investment banks (Citadel,
-Virtu, Morgan Stanley, Hutchin Hill Capital). I specialize in cross-language data systems
-— Python, C++, Q/KDB+, Rust — and in partnering directly with researchers and stakeholders
-to turn ideas and models into production systems.
+Virtu, Morgan Stanley, Hutchin Hill Capital).
 
 **Stack:** Lots more, but lately Python · C++ · Rust · SQL · Apache Airflow · GCP · Docker · Parquet / Arrow
 
 ## Open source
 
-### [Datui](https://github.com/derekwisong/datui) &nbsp;⭐ 120+
+### [Datui](https://github.com/derekwisong/datui) &nbsp;⭐ 130+
 
 A terminal UI for exploring tabular data — handles massive partitioned datasets, local and
 in the cloud (S3/GCS). Rust.
