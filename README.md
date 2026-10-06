@@ -11,7 +11,7 @@ Virtu, Morgan Stanley, Hutchin Hill Capital).
 A terminal UI for exploring tabular data — handles massive partitioned datasets, local and
 in the cloud (S3/GCS). Rust.
 
-[![Datui exploring a Parquet file in the terminal](assets/datui-overview.gif)](https://derekwisong.github.io/datui/latest/demos.html)
+[![Datui sorting and charting NYC flight delays](assets/datui-overview.gif)](https://derekwisong.github.io/datui/latest/demos.html)
 
 *[More demos →](https://derekwisong.github.io/datui/latest/demos.html)*
 
